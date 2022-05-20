@@ -1,2 +1,4 @@
-# docker_hw9
+# Docker hw9
 Spark
+
+## Team: [Liia_Dulher](https://github.com/LiiaDulher)
