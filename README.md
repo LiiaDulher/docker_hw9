@@ -12,5 +12,13 @@ $ sudo chmod +x shutdown-spark.sh
 ````
 ````
 $ docker-compose up -d
+$ ./run-program.sh
+# use inside-container commands
 $ ./shutdown-spark.sh
+````
+Inside container:
+````
+cd /opt/app
+spark-submit --master spark://spark-master:7077 --deploy-mode client spark_transactions.py
+exit
 ````
