@@ -1,5 +1,5 @@
 # Docker hw9
-Spark
+Spark 1
 
 ## Team: [Liia_Dulher](https://github.com/LiiaDulher)
 
