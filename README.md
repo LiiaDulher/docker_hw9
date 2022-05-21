@@ -23,4 +23,5 @@ spark-submit --master spark://spark-master:7077 --deploy-mode client spark_trans
 exit
 ````
 ### Result
+Number of lines in file: 6362621.
 ![result](./results.png)
