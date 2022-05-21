@@ -22,3 +22,5 @@ cd /opt/app
 spark-submit --master spark://spark-master:7077 --deploy-mode client spark_transactions.py
 exit
 ````
+### Result
+![result](./results.png)
